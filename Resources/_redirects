@@ -1,3 +1,2 @@
-/upsell-starter    /upsell-starter/    301
 /upsell-starter/*  https://seo-upsell-starter.netlify.app/:splat  200
 /api/audit         https://seo-upsell-starter.netlify.app/api/audit  200
